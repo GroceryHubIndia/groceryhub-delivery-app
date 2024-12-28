@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "798598013381",
+    "project_id": "groceryhubindia-24944",
+    "storage_bucket": "groceryhubindia-24944.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798598013381:android:a7850e949e58adbe09ebac",
+        "android_client_info": {
+          "package_name": "com.groceryhub.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798598013381-95k8l111rbrrlbj46ire88jq7lcd1dba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groceryhub.delivery",
+            "certificate_hash": "c78eca2e8dfac7f4232201d8ecf29aba47783ac8"
+          }
+        },
+        {
+          "client_id": "798598013381-4ub7fr2q4vn0qphujvj3qg15v1ama3um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZFaHfRP7zApblz8ieIEor1yF17vlApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798598013381-1ehm71i3p2gc608ui7h23q33pifm4ijo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798598013381-q315a4pie9beh4125a24kga7sibu12su.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groceryhub.india"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
